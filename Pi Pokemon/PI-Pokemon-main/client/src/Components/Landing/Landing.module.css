@@ -1,0 +1,24 @@
+.imgPrincipal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-image: url("https://i.pinimg.com/736x/c4/a8/d7/c4a8d7b411b1fb1310b005b20944e5eb--humor-pokemon.jpg");
+  background-repeat: round;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+.imgSecundaria {
+  width: 20rem;
+}
+
+/* .container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+   background: linear-gradient(217deg, tomato, rgb(243, 232, 238), #3972b8); 
+  background-attachment: fixed;
+  min-height: 100vh; */
